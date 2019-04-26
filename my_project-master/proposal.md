@@ -24,10 +24,13 @@ Github:https://github.com/JingeStevens/my_project
   
 # Proposal
   1.learn and use some algorithms by python.
+  
   2.can successfully run the code.
+  
   3.can classify the pictures at a good accuracy.
  
 # Todo  /  basic features.
+
 
 1. image processing:
    download the dataset from kaggle.
